@@ -1,1 +1,1 @@
-# digitalSoSu.github.io
+# Digital Tools for Social Sustainability
