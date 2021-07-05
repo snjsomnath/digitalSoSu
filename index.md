@@ -5,8 +5,8 @@ My name is Sanjay Somanath, I’m a PhD student at Chalmers University of Techno
 In our research project, we are developing open-source digital tools that support architects and urban planners to evaluate the social sustainability of their designs.  
 If you know someone who might be interested in this project, please forward this email to them!  
  
- 
- 
+![img](/banner.png) 
+
 Project Title - Digital tools for Socially Sustainable neighbourhood design  
 Members - Sanjay Somanath, Alexander Hollberg, Liane Thuvander and Jorge Gil  
 Funding - Chalmers Areas of Advance – Building Futures  
