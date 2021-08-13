@@ -7,35 +7,36 @@ If you know someone who might be interested in this project, please share this w
  
 ![img](/banner.png) 
 
-## Project Title - Digital tools for Socially Sustainable neighbourhood design  
+### Project Title - Digital tools for Socially Sustainable neighbourhood design  
 Members - Sanjay Somanath, Alexander Hollberg, Liane Thuvander and Jorge Gil  
 Funding - Chalmers Areas of Advance – Building Futures  
 Project Duration - 2020 - 2024  
 Target User – Architects and Urban planners  
  
-### Some of the questions we aim to answer through our project are –  
+#### Some of the questions we aim to answer through our project are –  
 -	How to assess the social sustainability of your designs?
 -	What are the neighbourhood level consequences that a project contributes towards?
 -	Who is most affected by a design/policy intervention, and what can we do about it?
  
-### We are conducting a series of stakeholder interviews + demo to -
+#### We are conducting a series of stakeholder interviews + demo to -
 -	Identify a problem owner 
 -	Collect feedback
 -	Set-up a case study to test our tools
  
 The goal with the digital tool is to stay open-source, and to encourage target users to actively test them as well.
-Please take a look at the project homepage for an overview and links to publications (https://snjsomnath.github.io/PhDThesisRepo/).  
+Please take a look at the project homepage for an overview and links to publications <https://snjsomnath.github.io/PhDThesisRepo/>.  
 As you will see, it is very much a Work-in-Progress, which makes it the perfect time to get inputs from stakeholders like yourself.  
  
-### Contents of the interview
+#### Contents of the interview
 -	Stakeholder needs and gaps
 -	Tool demo
 -	Feedback and scope for collaboration
-#### Duration   
+##### Duration   
 -	45-60 minutes
- 
+
+# What's next!
 If this seems interesting to you, please select a few time slots that work for you in the poll below.  
-(https://choodle.portal.chalmers.se/DigitalTools)  
+<https://choodle.portal.chalmers.se/DigitalTools>  
 If you don’t find a slot that works for you, or if you have any questions please let me know!  
  
  
