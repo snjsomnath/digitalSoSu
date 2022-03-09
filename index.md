@@ -34,9 +34,9 @@ Target User – Architects and Urban planners
 -	45-60 minutes
 
 # What's next!
-If this seems interesting to you, please select a few time slots that work for you in the poll below.  
-<https://choodle.portal.chalmers.se/DigitalTools>  
-If you don’t find a slot that works for you, or if you have any questions please let me know!  
+If this seems interesting to you, please let me know when you'd be free for an interview!
+[Click here to send an email!](mailto:sanjay.somanath@chalmers.se)
+
 
 ### Interested in the nuts and bolts?
 The goal with the digital tool is to stay open-source, and to encourage target users to actively test them as well.
