@@ -1,6 +1,3 @@
-Book an interview date here -
-<https://choodle.portal.chalmers.se/DigitalTools>  
-
 ## Hello there!  
 If you work with neighbourhood planning and are interested in exploring social sustainability, we would like to learn from your experiences!  
  
